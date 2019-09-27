@@ -22,5 +22,5 @@ Bis zu 100 Minuten pro Monat in's Festnetz und 50 Minuten in's Mobilfunknetz ink
 Danach
 19 Cent pro Minute in's Mobilfunknetz
 3 Cent pro Minute in's Festnetz
-
+## ToDo
 Erstellt ein Objekt, das ein Array mit den Tarifen enthält und eine Methode, die als Parameter die Anrufliste annimmt und den günstigsten Tarif zurückgibt.
